@@ -2,7 +2,7 @@
 
 The path is the goal.
 
-![alt](images/99-thanks/light-863150_640.jpg)<!-- .element: style="width: 40%" -->
+![The path is the goal](images/99-thanks/light-863150_640.jpg)<!-- .element: style="width: 40%" -->
 
 
 ## Acknowledgements

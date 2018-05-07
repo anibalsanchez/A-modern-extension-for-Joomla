@@ -1,4 +1,4 @@
-# A modern extension <!-- .slide: data-background-repeat="no-repeat" data-background-image="images/00-home/jab18_logo.png" data-background-size="auto auto" data-background-position="95% 5%" -->
+# A modern extension <!-- .slide: data-background-repeat="no-repeat" data-background-image="images/00-home/jab18_logo.png" data-background-size="auto auto" data-background-position="100% 5%" -->
 
 Day 3 (Sunday) - 11:00 - 12:00
 
@@ -12,10 +12,8 @@ Day 3 (Sunday) - 11:00 - 12:00
 ## In this workshop
 
 - What is a modern extension?
-- We need Containers
-- Docker, DockerCompose and Lando
-- Recipes and Services
-- Routes, Tooling and Events
+- Where we are
+- A recipe for modernity
 - Conclusion
 
 <!-- .element: class="small" --> Summary: In this session, we are going to talk about the techniques and technologies necessary to develop a state of the art extension. Building on top of a classic component that includes modules and plugins, we are going to add a quality assurance procedure, progressive features, packaging tools and continuous deployment services.
