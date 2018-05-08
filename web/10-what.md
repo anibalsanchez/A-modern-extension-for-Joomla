@@ -2,6 +2,10 @@
 
 What is a modern extension?
 
+- <!-- .element: class="fragment" --> A software for the next 10 years
+
+- <!-- .element: class="fragment" --> To create a future, <br> without breaking with the past
+
 
 ## Motivation
 
@@ -31,7 +35,7 @@ Grow fast or die slow
 
 ![Grow fast or die slow](images/10-what/Qtstalker_candlestick_chart_900.png)<!-- .element: style="width: 60%" -->
 
-<!-- .element: class="footnote" -->  Works cited: [McKinsey & Company: Grow fast or die slow](https://www.mckinsey.com/industries/high-tech/our-insights/grow-fast-or-die-slow)
+<!-- .element: class="footnote" --> Works cited: [McKinsey & Company: Grow fast or die slow](https://www.mckinsey.com/industries/high-tech/our-insights/grow-fast-or-die-slow)
 
 
 ## One Opportunity
