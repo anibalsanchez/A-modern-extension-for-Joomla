@@ -3,12 +3,15 @@
 
 ## The Application Mode
 
-Foto
+
+## The App Mode
+
+<!-- .element: class="small fragment" --> ![The Application Mode](images/30-how/joomla-app-mode.jpg) <!-- .element: style="width: 80%" -->
 
 
 ## The Application Mode
 
-![Grow fast or die slow](images/30-how/intersection.svg)<!-- .element: style="width: 40%" -->
+![The Application Mode](images/30-how/intersection.svg)<!-- .element: style="width: 40%" -->
 
 Joomla - Application
 
@@ -18,6 +21,13 @@ Joomla - Application
 A single component per page
 
 <!-- .element: class="small fragment" --> `index.php?option=com_content&view=articles&tmpl=component`
+
+
+### Modern extensions are already between us
+
+Joomla Shop is powered by [React](https://reactjs.org/).
+
+![Joomla Shop is powered by React](images/30-how/jshop-react.jpg)<!-- .element: style="width: 40%" -->
 
 
 ## Benefits of the App Mode
