@@ -28,3 +28,12 @@ The path is the goal.
 ## Feedback & Questions
 
 Thank you for your attention!
+
+
+## Mastermind
+
+![The Spanish Podcast about Joomla](images/99-thanks/spamissexy.jpg)<!-- .element: style="width: 40%" -->
+
+The Spanish Podcast about Joomla
+
+<!-- .element: class="small" --><https://mastermindjoomla.com/> #spamisexy
