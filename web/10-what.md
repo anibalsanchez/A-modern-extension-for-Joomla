@@ -2,9 +2,15 @@
 
 What is a modern extension?
 
-- <!-- .element: class="fragment" --> A software for the next 10 years
+- <!-- .element: class="fragment" --> A future-proof software for the next 10 years
 
 - <!-- .element: class="fragment" --> To create a future, <br> without breaking with the past
+
+
+<i class="fas fa-mobile-alt" data-fa-transform="grow-100"></i>
+
+
+<br>A modern extension <i class="fas fa-arrows-alt-h"></i> Web Application
 
 
 ## Motivation
@@ -26,35 +32,20 @@ A modern extension supports the new clients.
 
 New clients =  Market Growth
 
-![New clients =  Market Growth](images/10-what/Qtstalker_candlestick_chart_900.png)<!-- .element: style="width: 60%" -->
+![New clients =  Market Growth](images/10-what/Qtstalker_candlestick_chart_900.png)<!-- .element: style="width: 60%" class="img-with-border" -->
 
 
 ## Motivation
 
 Grow fast or die slow
 
-![Grow fast or die slow](images/10-what/Qtstalker_candlestick_chart_900.png)<!-- .element: style="width: 60%" -->
+![Grow fast or die slow](images/10-what/Qtstalker_candlestick_chart_900.png)<!-- .element: style="width: 60%" class="img-with-border" -->
 
 <!-- .element: class="footnote" --> Works cited: [McKinsey & Company: Grow fast or die slow](https://www.mckinsey.com/industries/high-tech/our-insights/grow-fast-or-die-slow)
 
 
-## One Opportunity
+## Community is stepping up #JAB18
 
-There is no modern CMS for this era ... yet.
-
-
-## One Opportunity
-
-<!-- .element: class="fragment" --> <i class="far fa-check-square"></i> Provide innovative services.
-
-<!-- .element: class="fragment" --> <i class="far fa-check-square"></i> Support your clients.
-
-<!-- .element: class="fragment" --> <i class="far fa-check-square"></i> Solve challenges.
-
-<!-- .element: class="fragment" --> <i class="far fa-check-square"></i> Reach new markets.
-
-<!-- .element: class="fragment" --> <i class="far fa-check-square"></i> Introduce new business models.
-
-<!-- .element: class="fragment" --> <i class="far fa-check-square"></i> Find your strength.
-
-<!-- .element: class="fragment" --> <i class="far fa-check-square"></i> Learn something new every day.
+- <!-- .element: class="small" --> [BYOF - Bring your own frontend - Content as a service](https://jandbeyond.org/programme.html?view=session&id=470)
+- <!-- .element: class="small" --> [Content Management Systems are not application platforms](https://jandbeyond.org/programme.html?view=session&id=486)
+- <!-- .element: class="small" --> [Let’s build a Joomla PWA PWS website](https://jandbeyond.org/programme.html?view=session&id=477)

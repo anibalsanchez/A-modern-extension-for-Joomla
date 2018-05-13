@@ -6,166 +6,166 @@
 
 ## The App Mode
 
-<!-- .element: class="small fragment" --> ![The Application Mode](images/30-how/joomla-app-mode.jpg) <!-- .element: style="width: 80%" -->
+<!-- .element: class="small fragment" --> ![The Application Mode](images/30-how/joomla-app-mode.jpg) <!-- .element: style="width: 70%" -->
 
 
 ## The Application Mode
 
 ![The Application Mode](images/30-how/intersection.svg)<!-- .element: style="width: 40%" -->
 
-Joomla - Application
+Joomla - Web App
 
 
 ## The Application Mode
 
-A single component per page
+A single app per page (SPA)
 
-<!-- .element: class="small fragment" --> `index.php?option=com_content&view=articles&tmpl=component`
+<!-- .element: class="small fragment" --> `index.php ? option=com_content & view=articles & tmpl=component`
 
-
-### Modern extensions are already between us
-
-Joomla Shop is powered by [React](https://reactjs.org/).
-
-![Joomla Shop is powered by React](images/30-how/jshop-react.jpg)<!-- .element: style="width: 40%" -->
+<!-- .element: class="small fragment" --> `index.php ? option=app_content # articles` ;-)
 
 
 ## Benefits of the App Mode
 
-- <!-- .element: class="fragment" --> Under control
+- <!-- .element: class="fragment" --> A full screen view
+- <!-- .element: class="fragment" --> Under control of the App
 - <!-- .element: class="fragment" --> No more spagetthi of mixed scripts
 - <!-- .element: class="fragment" --> No more modules or plugins
 - <!-- .element: class="fragment" --> My code or die(1);
 
 
-## User Interface
+## Apps around us
 
-- Mobile Apps
-- Progressive Web Apps
-- Desktop
+**Joomla Shop**
 
-_**Holy Grial**: Support of all interfaces with a single code base._
+![Joomla Shop is powered by React](images/30-how/jshop-react.jpg)<!-- .element: style="width: 50%" class="img-with-border" -->
 
-
-## User Interface
-
-We are in JavaScript (ES6) World.
-
-- Angular / Ionic
-- React
-- Vue.js
-
-_... and WebComponents are around the corner._
-
-- <!-- .element: class="small" --> Recommended reading: [Stencil](https://stenciljs.com/), the magical, reusable web components compiler.
-
-## UI - Ionic case
-
-_Joocial 9_
+- <!-- .element: class="small" --> Joomla Shop is powered by [React](https://reactjs.org/).
+- <!-- .element: class="small" --> Online service provided by [spreadshirt.ie](https://spreadshirt.ie)
+- <!-- .element: class="small" --> CMS agnostic, it works everywhere. Online service. Monthly Subscription.
 
 
-## UI - React case
+## Apps around us
 
-_WordPress Gutenberg_
+**J4 Media Manager**
+
+![J4 Media Manager](images/30-how/jed4-mm.jpg)<!-- .element: style="width: 50%" class="img-with-border" -->
+
+- <!-- .element: class="small" --> Joomla Media Manager is powered by [Vue.js](https://vuejs.org/).
+- <!-- .element: class="small" --> Custom API (com_media)
+- <!-- .element: class="small" --> Integrated with Joomla Backend Template
 
 
-## UI - Vue.js case
+## Apps around us
 
-_Joomla Media Manager_
+**Easy Articles**
+
+![Easy Articles](images/30-how/easy-articles.jpg)<!-- .element: style="width: 50%" class="img-with-border" -->
+
+- <!-- .element: class="small" --> Full screen view
+- <!-- .element: class="small" --> Pure Joomla extension
+- <!-- .element: class="small" --> Custom API (com_easyarticles)
+
+<!-- .element: class="footnote" --> [stackideas.com/easyarticles](https://stackideas.com/easyarticles)
 
 
-## UI - Progressive Web Apps
+## Apps around us
 
-Service Workers are already implemented in all major browsers.
+**Joocial 9**
 
-- Offline Navigation
-- Advanced Cache
-- Splash screen
-- Lazy (Background) Loading
-- Web Push Notifications
-- Theming
-- Home Screen Management
+![Joocial 9](images/30-how/j9.jpg)<!-- .element: style="width: 50%" class="img-with-border" -->
 
-XT Workbox
+- <!-- .element: class="small" --> Full screen view
+- <!-- .element: class="small" --> **Joocial 9 Beta** is powered by [Ionic](https://ionicframework.com) (TypeScript/ Angular).
+- <!-- .element: class="small" --> Custom API (com_joocial)
+- <!-- .element: class="small" --> Backend powered by Silex and Laravel Eloquent
 
-## UI - Sample extension
+<!-- .element: class="footnote" --> [Extly's Joocial](https://www.extly.com/joocial.html)
 
-Stack Ideas' Easy Articles
 
-[stackideas.com/easyarticles](https://stackideas.com/easyarticles)
+## Apps around us
 
-## The communication UI-Backend
+**WordPress Gutenberg**
 
-Our App must communicate in some way.
+![WordPress Gutenberg](images/30-how/wp-gutenberg.jpg)<!-- .element: style="width: 50%" class="img-with-border" -->
+
+- <!-- .element: class="small" --> A full Web App as a 100% plugin
+- <!-- .element: class="small" --> Gutenberg is powered by [React](https://reactjs.org/)
+- <!-- .element: class="small" --> Based on WP REST API
+- <!-- .element: class="small" --> The page builder will have **Blocks** (React-WP API)
+
+
+## Web App - UI <!-- .slide: data-background-repeat="no-repeat" data-background-image="images/30-how/com.tplink.tether.jpg" data-background-size="auto auto" data-background-position="95% 5%" style="text-align: left" -->
+
+<!-- .element: class="small" --> Define the User Interface in terms of <br>specific use cases.
+
+- Who
+- What / Why
+- Where
+- When
+- How
+
+Note:
+One case at a time
+
+
+## Web App - UI <!-- .slide: data-background-repeat="no-repeat" data-background-image="images/30-how/com.tplink.tether.jpg" data-background-size="auto auto" data-background-position="95% 5%" style="text-align: left" -->
+
+![Joocial 9 - Channels](images/05-who/j9-channel.jpg) <!-- .element: style="width: 25%" class="img-with-border" -->
+
+<!-- .element: class="footnote" --> [Extly's Joocial](https://www.extly.com/joocial.html)
+
+
+## Web App - Comm
+
+<!-- .element: class="small" --> Beyond content pages, our Apps must communicate sensibily.
 
 - Reduce the number of requests
-- Semantic communication
-- Microservices
+- Semantic protocol
+- Business Microservices
 
 
-## WebServices 911
+## Web Services 911
 
-Implement any kind of WebService
+Implement any kind of **Web Service**
 
-- Symfony 4 / Silex
-- Laravel Lumen
-- SlimFramework
-
-FOF Json DataView
+- <!-- .element: class="small" --> Akeeba's [FOF](https://github.com/akeeba/fof) Framework on Framework
+- <!-- .element: class="small" --> TechJoomla's [com_api](https://github.com/techjoomla/com_api) - API framework for Joomla
+- <!-- .element: class="small" --> Laravel Lumen
+- <!-- .element: class="small" --> Slim Framework
+- <!-- .element: class="small" --> Symfony 4
 
 
 ## The Domain
 
-Choose the right stack:
+Build your own Business Domain
 
-- Joomla Models
-- FOF Models
-- Laravel Eloquent
-- Doctrine
-- Your own flavour
+**Services and Models**
+
+- <!-- .element: class="small" --> Joomla Models
+- <!-- .element: class="small" --> FOF Models
+- <!-- .element: class="small" --> Laravel Eloquent
 
 
 ## CMS Agnostic Layer
 
 Define a "The World as I See It"
 
-- Be ready for Joomla 3 / 4 ... X
-- Build Interfaces to the World
-- Learn from other CMSs
-  - Bolt
-  - Grav
-  - October
-  - PrestaShop
-  - WordPress
+- <!-- .element: class="small" --> Be ready for Joomla 3 / 4 ... X
+- <!-- .element: class="small" --> Build Interfaces to the World
+
+<!-- .element: class="footnote" --> TO-DO: Learn from other CMSs: Bolt, Grav, October, PrestaShop and WordPress
 
 
 ## A modern toolbox
 
-_Configuration Management_
+[Composer](https://getcomposer.org/), [node.js](https://nodejs.org/en/) and [npm](https://www.npmjs.com/) are your friends.
 
-- YML
-- JSON is fine
-
-Avoid XML as much as possible (Run for your life).
+![The Application Mode](images/30-how/collaboration-security.svg)<!-- .element: style="width: 40%" -->
 
 
-## A modern toolbox
+## A modern toolbox <!-- .slide: data-background-image="images/05-who/extly-isologo.png" data-background-size="auto auto" data-background-position="95% 5%" -->
 
-Automate your test s- always -
+[Devops with Lando and Docker](https://extly.tech/media/devops-with-lando-and-docker/index.html#/)
 
-- Unit Testing (phpunit / jasmine)
-- Integration Testing
-- End-to-end testing (Protractor)
-
-## A modern toolbox
-
-Composer and Node are your friends.
-
-
-## A modern toolbox
-
-Build tool
-
-Webpack is my pal.
-
-Avoid Phing as much as possible (Run for your life).
+[Webpack build files for Joomla Extensions](https://github.com/anibalsanchez/extly-boilerplate-buildfiles-for-joomla)
