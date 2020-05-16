@@ -6,7 +6,7 @@ Day 3 (Sunday) - 11:00 - 12:00
 
 <!-- .element: class="small" --> J and Beyond 2018 - Cologne-Germany - 11-13 May 2018
 
-<!-- .element: class="small" --> Slides: [joo.nu/jmodern](http://joo.nu/jmodern)
+<!-- .element: class="small" --> Slides: [ppub.link/jmodern](http://ppub.link/jmodern)
 
 
 ## In this workshop
